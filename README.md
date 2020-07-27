@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 📱 Mobile Engineer at Drift ⚡
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timMorrrill)](https://github.com/timMorrill/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timMorrill)](https://github.com/timMorrill/github-readme-stats)
 
 ![timMorrill's Github Stats](https://github-readme-stats.vercel.app/api?username=timMorrill&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
